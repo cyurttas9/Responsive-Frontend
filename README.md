@@ -6,5 +6,4 @@ Avukatlar için hazırlanmış bir front-end.
 
 ![](screenshots/Screenshot_2.png)
 
-Responsive:
 ![](screenshots/Screenshot_3.png)
